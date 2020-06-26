@@ -6,7 +6,7 @@
 2. In Order to make sure you get the right product and have the product done right.
  
 ## What ?
-> Requirements are specific descriptions of your client needs.
+Requirements are specific descriptions of your client needs.
 
 <hr/>
 
@@ -18,6 +18,8 @@ Eliciation is a much more involved, interactive & investigative process.
 Needs - core functions required to solve the problem, that the product is intended to solve
 Wants - desired function, they'd like to see
 Needs > Wants
+
+<hr/>
 
 ### Specification Phase
 1. Identifying Ideas/Needs
@@ -43,3 +45,20 @@ Needs > Wants
 8. Development Constraints
 
 <hr/>
+
+### Requirements Change
+
+### Scope Vs Vision
+Vision - what product will eventually do one day
+Scope - What can be realistically achieved within current project
+(Boundary of what's in and what's out of the project)
+
+### Prevent ScopeCreep
+1. Make Expectations Clear
+2. Draw scope 
+3. Client prioritize requirements
+
+<hr/>
+
+Requiremnent - What
+Design - How
