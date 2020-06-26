@@ -1,4 +1,4 @@
-# Requirement
+# Requirements
 
 ## Why Important ?
 1. Users are becoming Demanding
