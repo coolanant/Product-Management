@@ -49,8 +49,8 @@ Needs > Wants
 ### Requirements Change
 
 ### Scope Vs Vision
-Vision - what product will eventually do one day
-Scope - What can be realistically achieved within current project
+Vision - what product will eventually do one day<br/>
+Scope - What can be realistically achieved within current project<br/>
 (Boundary of what's in and what's out of the project)
 
 ### Prevent ScopeCreep
@@ -60,5 +60,5 @@ Scope - What can be realistically achieved within current project
 
 <hr/>
 
-Requiremnent - What
+Requiremnent - What<br/>
 Design - How
